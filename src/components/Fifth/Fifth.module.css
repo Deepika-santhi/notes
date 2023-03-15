@@ -1,0 +1,28 @@
+.fifth
+{
+    width: 98%;
+    height: 100%;
+   
+}
+.main
+{
+    height: 56%;
+    width: 70%;
+    /* border: 1px solid black; */
+    margin-top: 28%;
+    margin-left: 10%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+img
+{
+    height:90px
+}
+.text
+{
+    font-size: 18px;
+    color: grey;
+    text-align: center;
+    line-height: 31px;
+}

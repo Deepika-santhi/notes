@@ -1,0 +1,70 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Anek+Telugu&family=El+Messiri:wght@600&family=Josefin+Sans:ital,wght@1,300&family=League+Spartan&family=Mukta&family=Nerko+One&family=Open+Sans&family=Poppins:wght@300&family=Raleway:wght@500&family=Roboto+Condensed:wght@300;400&family=Roboto+Mono&family=Roboto:ital@1&family=Rubik&family=Solway:wght@500&display=swap');
+*
+{
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.main
+{
+    height: 1050px;
+    width: 1910px;
+    background-color: rgba(239, 245, 255,1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.whole
+{
+    height: 823px;
+    width: 1375px;
+    
+    background-color:white;
+    border-radius: 20px;
+    box-shadow: 0px 0px 4px 4px white;
+    display: grid;
+    grid-template-columns: 5fr 8fr;
+    align-items: center;
+    
+}
+
+.second
+{
+    width: 98%;
+    height: 100%;
+    /* border: 1px solid black; */
+}
+h1
+{
+    color: rgba(2, 41, 89,1);
+    font-size: 49px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    margin-top: 10%;
+}
+.request
+{
+    color: grey;
+    font-size:25px;
+    font-weight: lighter;
+}
+.heading
+{
+    font-size: 26px;
+    margin-top: 6%;
+    color: rgba(2, 41, 89,1);
+}
+.inp
+{
+    height: 56px;
+    width: 590px;
+    border: 1px solid rgb(214, 217, 230);
+    border-radius: 10px;
+    font-size: 22px;
+    color:grey;
+}
+.inp:hover
+{
+    border:1px solid rgb(72, 62, 255);
+}

@@ -1,0 +1,24 @@
+.but
+{
+    height: 49px;
+    width: 145px;
+    padding-top: 15px;
+    background-color: rgb(22, 74, 138);
+    color: white;
+    font-size: 21px;
+    font-weight: bolder;
+    display: inline-block;
+    text-align: center;
+    /* margin-left: 70%; */
+    border-radius: 10px;
+    margin-top: 7%;
+    box-shadow: 3px 3px 5px 0px rgb(22, 74, 138);
+    letter-spacing: 1px;
+}
+.but:hover
+{
+    
+    box-shadow: -7px -7px 24px -4px rgb(22 74 138);
+    /* background-color: rgba(22, 74, 138,0.8); */
+
+}

@@ -1,0 +1,167 @@
+.second
+{
+    width: 98%;
+    height: 100%;
+   
+}
+h1
+{
+    font-weight: 900px;
+    font-size:44px;
+    margin-bottom: 0px;
+}
+.sub_head
+{
+    font-size: 20px;
+   
+    color: grey;
+    margin-top: 15px;
+    letter-spacing: 1px;
+}
+.box
+{
+    height:33%;
+    width:25%;
+    border:1px solid grey;
+    display: inline-block;
+    margin-top:5%;
+    margin-right:4%;
+    border-radius: 5%;
+    
+}
+.box1
+{
+    background-color: rgb(238,238,238);
+    border:1px solid rgb(72, 62, 255)
+}
+.box:hover
+{
+    border: 1px solid  rgb(72, 62, 255);
+    
+}
+.icon
+{
+    height:25%;
+    width:25%;
+    margin-left:15%;
+    margin-top:15%
+}
+.sub_div
+{
+    height:8%;
+    width:83%;
+    background-color: rgb(248, 249, 255);
+   
+    margin-top:5%;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+.month
+{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 30%;
+    color:grey
+
+}
+.monthchange
+{
+    font-size: 22px;
+    /* font-weight: bold; */
+    /* margin-left: 30%; */
+    color:rgb(2, 41, 89)
+}
+.toggle
+{
+    height: 40%;
+    width: 8%;
+    border-radius: 30px;
+    background-color: rgb(2, 41, 89);
+    margin-left: 5%;
+}
+.year
+{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5%;
+    color:grey
+}
+.small
+{
+    height: 74%;
+    width: 35%;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 7%;
+    margin-top: 6%;
+    translate: 0;
+
+}
+.small1
+{
+    height: 74%;
+    width: 35%;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 7%;
+    margin-top: 6%;
+    translate:27px;
+}
+
+.yearchange
+{
+    font-size: 22px;
+    
+    color:rgb(2, 41, 89)
+}
+
+.name
+{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 15%;
+    margin-top: 22%;
+    color: rgb(2, 41, 89);
+    margin-bottom: 0px;
+}
+.limit
+{
+    color: grey;
+    font-size: 19px;
+    margin-left: 15%;
+    margin-top: 5.5%;
+    margin-bottom: 0px;
+}
+.hide
+{
+    color: rgb(2, 41, 89);
+    font-size: 19px;
+    margin-left: 15%;
+    margin-top: 6.5%;
+    
+}
+.last
+{
+    width:100%;
+    display: grid;
+    grid-template-columns: 5fr 2fr;
+    margin-top:5%
+    
+}
+.go
+{
+    color:grey;
+    font-size: 21px;
+    
+    font-weight: bold;
+}
+a
+{
+    text-decoration: none;
+}
+/* .select
+{
+    background-color: rgb(248, 249, 255);
+    border: 1px solid black;
+} */

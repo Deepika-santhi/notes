@@ -1,0 +1,49 @@
+.request
+{
+    color: grey;
+    font-size:22px;
+    font-weight: lighter;
+    margin-top: 10px;
+}
+.heading
+{
+    font-size: 23px;
+    margin-top: 5%;
+    color: rgba(2, 41, 89,1);
+    margin-bottom: 20px;
+   
+}
+.inp
+{
+    height: 56px;
+    width: 590px;
+    border: 1px solid rgb(214, 217, 230);
+    border-radius: 10px;
+    font-size: 20px;
+    color:grey;
+}
+.inp:hover
+{
+    border:1px solid rgb(72, 62, 255);
+}
+.second
+{
+    width: 98%;
+    height: 100%;
+    /* border: 1px solid black; */
+}
+h1
+{
+    color: rgba(2, 41, 89,1);
+    font-size: 48px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    margin-top: 9%;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.last
+{
+    margin-left: 68%;
+    margin-top: 4%;
+}
